@@ -1,0 +1,216 @@
+2021-10-23 14:51:59,694 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:25] - INFO: Loading features from cached file data/train/cache_train-v2.0.data
+2021-10-23 14:52:33,343 - /home/deepblue/xyf_work/Squad/run.py[line:42] - INFO: ***** Running training *****
+2021-10-23 14:52:33,343 - /home/deepblue/xyf_work/Squad/run.py[line:43] - INFO:   Num examples = 130571
+2021-10-23 14:52:33,343 - /home/deepblue/xyf_work/Squad/run.py[line:44] - INFO:   Num Epochs = 3
+2021-10-23 14:52:33,343 - /home/deepblue/xyf_work/Squad/run.py[line:45] - INFO:   Instantaneous batch size per GPU = 10
+2021-10-23 15:00:52,963 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 15:00:58,207 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 15:00:58,208 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 15:00:58,209 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 15:05:00,983 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 242.773877 secs (0.020194 sec per example)
+2021-10-23 15:05:33,927 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-1000.pkl
+2021-10-23 15:13:59,402 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 15:14:02,949 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 15:14:02,950 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 15:14:02,951 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 15:18:06,822 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 243.870875 secs (0.020285 sec per example)
+2021-10-23 15:18:40,612 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-2000.pkl
+2021-10-23 15:27:06,213 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 15:27:11,403 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 15:27:11,404 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 15:27:11,405 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 15:31:16,042 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.636973 secs (0.020349 sec per example)
+2021-10-23 15:40:14,739 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 15:40:18,505 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 15:40:18,506 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 15:40:18,507 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 15:44:23,408 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.900129 secs (0.020371 sec per example)
+2021-10-23 15:44:58,572 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-4000.pkl
+2021-10-23 15:53:21,023 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 15:53:26,229 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 15:53:26,230 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 15:53:26,230 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 15:57:29,618 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 243.386689 secs (0.020245 sec per example)
+2021-10-23 15:58:04,037 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-5000.pkl
+2021-10-23 16:06:31,111 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 16:06:34,640 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 16:06:34,641 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 16:06:34,641 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 16:10:39,572 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.929949 secs (0.020373 sec per example)
+2021-10-23 16:11:14,468 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-6000.pkl
+2021-10-23 16:19:41,353 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 16:19:44,883 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 16:19:44,884 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 16:19:44,885 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 16:23:51,235 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 246.349557 secs (0.020492 sec per example)
+2021-10-23 16:32:49,719 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 16:32:53,270 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 16:32:53,270 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 16:32:53,271 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 16:36:57,301 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.029354 secs (0.020299 sec per example)
+2021-10-23 16:45:54,543 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 16:45:58,080 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 16:45:58,080 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 16:45:58,081 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 16:50:04,251 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 246.169109 secs (0.020477 sec per example)
+2021-10-23 16:59:04,596 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 16:59:08,163 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 16:59:08,163 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 16:59:08,164 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 17:03:12,357 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.192128 secs (0.020312 sec per example)
+2021-10-23 17:03:45,578 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:93] - INFO: Saving model checkpoint to model/checkpoints/checkpoint-10000.pkl
+2021-10-23 17:12:11,031 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 17:12:16,264 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 17:12:16,265 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 17:12:16,266 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 17:16:21,112 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.845853 secs (0.020366 sec per example)
+2021-10-23 17:25:21,980 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 17:25:25,502 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 17:25:25,502 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 17:25:25,503 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 17:29:29,830 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.325994 secs (0.020323 sec per example)
+2021-10-23 17:30:03,382 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-12000.pkl
+2021-10-23 17:38:28,575 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 17:38:32,106 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 17:38:32,107 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 17:38:32,108 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 17:42:38,387 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 246.278748 secs (0.020486 sec per example)
+2021-10-23 17:43:09,838 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-13000.pkl
+2021-10-23 17:51:33,060 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 17:51:38,103 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 17:51:38,104 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 17:51:38,105 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 17:55:42,217 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.111701 secs (0.020305 sec per example)
+2021-10-23 18:04:41,506 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 18:04:46,713 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 18:04:46,713 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 18:04:46,714 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 18:08:51,321 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.606702 secs (0.020347 sec per example)
+2021-10-23 18:09:24,556 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-15000.pkl
+2021-10-23 18:17:46,645 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 18:17:50,177 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 18:17:50,178 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 18:17:50,178 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 18:21:53,104 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 242.924942 secs (0.020207 sec per example)
+2021-10-23 18:22:26,518 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-16000.pkl
+2021-10-23 18:30:50,224 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 18:30:55,437 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 18:30:55,438 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 18:30:55,439 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 18:34:58,842 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 243.402662 secs (0.020246 sec per example)
+2021-10-23 18:35:32,190 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-17000.pkl
+2021-10-23 18:43:53,826 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 18:43:57,341 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 18:43:57,342 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 18:43:57,343 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 18:48:01,000 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 243.656769 secs (0.020268 sec per example)
+2021-10-23 18:48:33,728 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-18000.pkl
+2021-10-23 18:56:57,441 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 18:57:00,957 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 18:57:00,958 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 18:57:00,959 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 19:01:06,349 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 245.389639 secs (0.020412 sec per example)
+2021-10-23 19:10:04,061 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 19:10:07,594 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 19:10:07,595 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 19:10:07,595 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 19:14:11,675 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.078805 secs (0.020303 sec per example)
+2021-10-23 19:14:44,628 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:93] - INFO: Saving model checkpoint to model/checkpoints/checkpoint-20000.pkl
+2021-10-23 19:23:08,990 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 19:23:12,523 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 19:23:12,524 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 19:23:12,525 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 19:27:18,249 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 245.723724 secs (0.020440 sec per example)
+2021-10-23 19:36:13,937 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 19:36:17,524 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 19:36:17,524 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 19:36:17,525 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 19:40:21,261 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 243.735899 secs (0.020274 sec per example)
+2021-10-23 19:49:17,143 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 19:49:22,374 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 19:49:22,375 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 19:49:22,376 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 19:53:26,017 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 243.641244 secs (0.020266 sec per example)
+2021-10-23 20:02:22,727 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 20:02:26,255 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 20:02:26,256 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 20:02:26,256 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 20:06:30,371 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.113859 secs (0.020306 sec per example)
+2021-10-23 20:15:28,902 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 20:15:32,438 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 20:15:32,439 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 20:15:32,439 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 20:19:39,958 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 247.518239 secs (0.020589 sec per example)
+2021-10-23 20:28:42,237 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 20:28:45,775 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 20:28:45,776 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 20:28:45,777 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 20:32:51,075 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 245.298149 secs (0.020404 sec per example)
+2021-10-23 20:33:24,576 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-26000.pkl
+2021-10-23 20:41:53,070 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 20:41:58,272 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 20:41:58,272 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 20:41:58,273 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 20:46:03,915 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 245.641075 secs (0.020433 sec per example)
+2021-10-23 20:46:37,482 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:81] - INFO: Saving best model to model/checkpoints/best_model-27000.pkl
+2021-10-23 20:55:06,118 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 20:55:09,653 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 20:55:09,654 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 20:55:09,655 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 20:59:15,081 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 245.425315 secs (0.020415 sec per example)
+2021-10-23 21:08:15,849 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 21:08:19,383 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 21:08:19,384 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 21:08:19,385 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 21:12:25,417 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 246.032269 secs (0.020465 sec per example)
+2021-10-23 21:21:25,231 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 21:21:28,793 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 21:21:28,794 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 21:21:28,795 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 21:25:33,127 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.332255 secs (0.020324 sec per example)
+2021-10-23 21:26:06,349 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:93] - INFO: Saving model checkpoint to model/checkpoints/checkpoint-30000.pkl
+2021-10-23 21:34:32,386 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 21:34:35,924 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 21:34:35,925 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 21:34:35,926 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 21:38:43,396 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 247.469401 secs (0.020585 sec per example)
+2021-10-23 21:47:42,560 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 21:47:46,430 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 21:47:46,431 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 21:47:46,432 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 21:51:51,627 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 245.194520 secs (0.020395 sec per example)
+2021-10-23 22:00:51,860 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 22:00:57,102 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 22:00:57,103 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 22:00:57,103 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 22:05:01,956 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.852121 secs (0.020367 sec per example)
+2021-10-23 22:13:59,085 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 22:14:04,870 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 22:14:04,871 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 22:14:04,871 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 22:18:09,271 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.399603 secs (0.020329 sec per example)
+2021-10-23 22:27:11,603 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 22:27:17,449 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 22:27:17,450 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 22:27:17,451 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 22:31:22,115 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.664426 secs (0.020351 sec per example)
+2021-10-23 22:40:24,566 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 22:40:28,089 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 22:40:28,090 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 22:40:28,090 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 22:44:32,757 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.666607 secs (0.020352 sec per example)
+2021-10-23 22:53:35,135 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 22:53:38,677 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 22:53:38,677 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 22:53:38,678 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 22:57:45,486 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 246.807635 secs (0.020530 sec per example)
+2021-10-23 23:06:44,895 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 23:06:49,937 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 23:06:49,937 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 23:06:49,938 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 23:10:55,111 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 245.172320 secs (0.020394 sec per example)
+2021-10-23 23:19:56,536 - /home/deepblue/xyf_work/Squad/data/process/dataset.py[line:46] - INFO: Loading features from cached file data/dev/cache_dev-v2.0.data
+2021-10-23 23:20:01,780 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:124] - INFO: ***** Running evaluation  *****
+2021-10-23 23:20:01,781 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:125] - INFO:   Num examples = 12022
+2021-10-23 23:20:01,781 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:126] - INFO:   Batch size = 10
+2021-10-23 23:24:06,493 - /home/deepblue/xyf_work/Squad/train_eval/train_eval.py[line:160] - INFO:   Evaluation done in total 244.711704 secs (0.020355 sec per example)
